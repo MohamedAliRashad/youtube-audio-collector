@@ -65,8 +65,8 @@ This script is designed for research and educational purposes. Ensure you comply
 
 ## License
 
-[MIT License](LICENSE)
+[GPL-3.0](https://github.com/MohamedAliRashad/youtube-audio-collector/blob/main/LICENSE)
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/youtube-audio-collector/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/MohamedAliRashad/youtube-audio-collector/issues) if you want to contribute.
