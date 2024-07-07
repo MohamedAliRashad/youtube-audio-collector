@@ -1,0 +1,9 @@
+pytubefix
+youtube_transcript_api
+datasets
+pydub
+numpy
+tqdm
+pandas
+pathlib
+argparse
