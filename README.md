@@ -52,9 +52,9 @@ Arguments:
 
 1. The script reads YouTube channel URLs from the specified file.
 2. For each video in each channel:
-  - It checks for manually created captions containing both Arabic and English text.
-  - If suitable captions are found, it downloads the audio.
-  - The audio is then cut into chunks based on the caption timing.
+    - It checks for manually created captions containing both Arabic and English text.
+    - If suitable captions are found, it downloads the audio.
+    - The audio is then cut into chunks based on the caption timing.
 3. Audio chunks and their corresponding transcriptions are saved.
 4. A dataset is created from the collected audio and captions.
 5. The dataset is pushed to the Hugging Face Hub.
